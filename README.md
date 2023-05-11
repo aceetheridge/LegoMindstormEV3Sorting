@@ -17,7 +17,16 @@ Make sure python is added to the binary path to your zshrc or bashrc file someth
 
 ``` export PATH=”$PATH:/usr/local/bin/python”```
 
+Install git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+Make sure you add your github config with your credentials: https://docs.github.com/en/get-started/quickstart/set-up-git
+
+Clone this project with :
+
+```git clone https://github.com/aceetheridge/LegoMindstormEV3Sorting.git```
+
 ## Step 2:
+
 Install Jupyter Notebook: https://jupyter.org/install
 
 ## Step 3:
