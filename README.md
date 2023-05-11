@@ -21,9 +21,11 @@ Make sure python is added to the binary path to your zshrc or bashrc file someth
 Install Jupyter Notebook: https://jupyter.org/install
 
 ## Step 3:
-Run downloadImagesGatherMore in Jupyter Notebook or VsCode.
+Run downloadImagesGatherMore.ipynb in Jupyter Notebook or VsCode.
 
 Run through all of the cells in order.
+
+You will need to create a https://www.kaggle.com/ username to download the images and labels but this is free.
 
 Note: You only have to run till the point where it downloads from kaggle to get all the images. If you want to add more images continue with this script.
 
