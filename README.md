@@ -34,7 +34,7 @@ Run downloadImagesGatherMore.ipynb in Jupyter Notebook or VsCode.
 
 Run through all of the cells in order.
 
-You will need to create a https://www.kaggle.com/ username to download the images and labels but this is free.
+You will need to create a https://www.kaggle.com/ username to download the images and labels but this is free. Add your Kaggle username and apikey to the kaggle.json file.
 
 Note: You only have to run till the point where it downloads from kaggle to get all the images. If you want to add more images continue with this script.
 
